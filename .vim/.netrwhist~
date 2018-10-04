@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/lholmes/release/torq/deploy/code/processes'
+let g:netrw_dirhist_2='/home/lholmes/TICKLE_QUANT/TICKLE_QUANT/code/fixcommon'
+let g:netrw_dirhist_3='/home/lholmes/release/v1.12/deploy/code/fixcommon'
+let g:netrw_dirhist_4='/home/lholmes/TICKLE_QUANT/TICKLE_QUANT/code/fixcommon'
